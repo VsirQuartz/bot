@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["https://www.instagram.com/emirhandiebiriw/"];
 
 
 let currentIndex = 0;
